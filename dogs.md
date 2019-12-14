@@ -8,3 +8,4 @@
 7. Chihuahua
 8. Golden Retriever
 9. Rottweiler
+10. Labrador
